@@ -1,0 +1,22 @@
+{
+  "presentation": {
+    "home": "index.html",
+    "about_us": "about.html",
+    "contact": "contact.html",
+    "services": "ui-elements.html",
+    "rental": "inventory-list-01.html",
+    "financing": "faq.html",
+    "high_end_products": "inventory-sidebar-cards.html",
+    "product_detail": "inventory-page-single.html",
+    "moto_school": "blog-list-01.html"
+  },
+  "eshop": {
+    "home": "index-10.html",
+    "category_list": "shop-list.html",
+    "product_detail": "shop-single.html",
+    "cart": "cart.html",
+    "checkout": "checkout.html",
+    "user_dashboard": "dashboard.html",
+    "inventory": "inventory-sidebar-rows.html"
+  }
+}

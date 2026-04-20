@@ -1,0 +1,29 @@
+{
+  "https://apcshop.eu/": {
+    "url": "https://apcshop.eu/",
+    "type": "home",
+    "title": "APC Shop | APC Shop",
+    "meta_description": "Predaj Štvorkoliek | APCSHOP | Slovensko | Bardejov"
+  },
+  "https://apcshop.eu/obchodne-podmienky": {
+    "url": "https://apcshop.eu/obchodne-podmienky",
+    "type": "page",
+    "title": "Obchodné podmienky a reklamačný poriadok | APC Shop",
+    "meta_description": ""
+  },
+  "https://apcshop.eu/wishlist": {
+    "url": "https://apcshop.eu/wishlist",
+    "type": "page",
+    "title": "Prihlásenie zákazníka | APC Shop",
+    "meta_description": ""
+  },
+  "crawl_summary": {
+    "visited_urls": 80,
+    "captured_categories": 6,
+    "captured_products": 60,
+    "captured_blog_posts": 9,
+    "captured_contacts": 1,
+    "captured_presentation_pages": 6,
+    "errors": 0
+  }
+}
