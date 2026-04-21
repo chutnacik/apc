@@ -23779,6 +23779,7 @@ Chat Widget
   background-color: var(--theme-color-dark);
   padding: 13px 30px 10px;
   border-radius: 16px;
+  border: none;
 }
 
 .footer-style-two .widgets-section {
@@ -30584,6 +30585,30 @@ li.nav-sub.mm-listitem .mm-listitem__btn {
   min-width: 0;
   margin-left: 28px;
   margin-right: 20px;
+}
+
+.index-header.header-style-v1 .header-inner .c-box .nav-out-bar .nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.index-header.header-style-v1 .main-menu .navigation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.index-header.header-style-v1 .main-menu .navigation > li {
+  float: none;
 }
 
 .index-header.header-style-v1 .main-menu .navigation > li {
